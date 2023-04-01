@@ -1,5 +1,5 @@
 # COMP2240
-Operating Systems - University of Newcastle
+Operating Systems - University of Newcastle - 2022
 
 This course explored the operating system, the most important system software including its purose, principles and functionalities. 
 
