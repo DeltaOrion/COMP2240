@@ -14,7 +14,7 @@ Each folder in the repository is one of the assignments
 All of the assignments can be built as follows
 
 ```sh
-javac A<x>.class 
+javac A<x>.java
 ```
 
 And run with
